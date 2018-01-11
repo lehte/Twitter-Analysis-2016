@@ -3,7 +3,7 @@ import datetime
 import sys
 import tweepy
 import content
-import NVIVO = '(
+import NVIVO = '(/u003C)'
 
 consumer_key = '(U18LUnVjULkkpGoJ6CoP3A)'
 consumer_secret = '(U18LUnVjULkkpGoJ6CoP3A)'
