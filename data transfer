@@ -6,9 +6,9 @@ import content
 import NVIVO = '(
 
 consumer_key = '(U18LUnVjULkkpGoJ6CoP3A)'
-consumer_secret = '(INSERT YOUR KEY HERE)'
-access_key = '(INSERT YOUR KEY HERE)'
-access_secret = '(INSERT YOUR KEY HERE)'
+consumer_secret = '(U18LUnVjULkkpGoJ6CoP3A)'
+access_key = '(U18LUnVjULkkpGoJ6CoP3A)'
+access_secret = '(U18LUnVjULkkpGoJ6CoP3A)'
 
 
 def get_all_tweets(screen_name, end_date, limit=None):
